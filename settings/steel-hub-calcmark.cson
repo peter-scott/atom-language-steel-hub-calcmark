@@ -1,0 +1,6 @@
+
+'.source.calcmark:not(.markup.code)':
+  'editor':
+    'softWrap': true
+    'commentStart': '~~~~~'
+    'commentEnd': '~~~~~'

@@ -1,0 +1,38 @@
+
+scopeName: 'source.calcmark'
+name: 'Steel-Hub Calcmark'
+fileTypes: [
+  'calcmark'
+]
+firstLineMatch: ''
+foldingStartMarker: ''
+foldingStopMarker: ''
+patterns: [
+  {
+    match: ''
+    begin: ''
+    end: ''
+    name: ''
+    contentName: ''
+    captures:
+      0:
+        name: ''
+    beginCaptures:
+      0:
+        name: ''
+    endCaptures:
+      0:
+        name: ''
+    include: ''
+  }
+]
+repository:
+  ruleName:
+    {
+      name: ''
+      match: ''
+      end: ''
+      endCaptures:
+        0:
+          name: ''
+    }
